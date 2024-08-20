@@ -1,11 +1,21 @@
 body {
-    background-color: aquamarine;
+    background-color: rgb(44, 94, 77);
+    text-align: center;
 }
 
 p {
-    color: darkmagenta;
+    color: rgb(212, 137, 212);
 }
 
 .gato {
     font-style: italic;
+}
+h1{
+    font-size: 150;
+}
+.img1 {
+    text-align: center;
+}
+h2{
+    text-align: center;
 }
