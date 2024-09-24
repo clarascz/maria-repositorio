@@ -23,5 +23,7 @@ h2{
 header {
      border-bottom: solid 2px rgb(42, 127, 228);
      padding: 20px;
-     font-size:32px;    
+     font-size:32px;   
+     display: block; 
+     font-family: 'Chakra Petch', sans-serif
 }
