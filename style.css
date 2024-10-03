@@ -27,3 +27,23 @@ header {
      display: block; 
      font-family: 'Chakra Petch', sans-serif
 }
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+}
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+
+
+
